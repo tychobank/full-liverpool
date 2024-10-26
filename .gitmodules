@@ -1,0 +1,6 @@
+[submodule "frontend-liverpool"]
+	path = frontend-liverpool
+	url = https://github.com/tychobank/frontend-liverpool.git
+[submodule "backend-liverpool"]
+	path = backend-liverpool
+	url = https://github.com/tychobank/backend-liverpool.git
